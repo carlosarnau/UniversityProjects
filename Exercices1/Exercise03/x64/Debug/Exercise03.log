@@ -1,0 +1,4 @@
+﻿  exercise1.03.c
+C:\Users\Carlos Arnau\source\repos\Exercises1\Exercise03\exercise1.03.c(16,1): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos Arnau\source\repos\Exercises1\Exercise03\exercise1.03.c(17,1): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Exercise03.vcxproj -> C:\Users\Carlos Arnau\source\repos\Exercises1\x64\Debug\Exercise1.03.exe
