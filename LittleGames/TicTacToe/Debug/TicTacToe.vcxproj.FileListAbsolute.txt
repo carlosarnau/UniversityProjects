@@ -1,0 +1,4 @@
+C:\Users\Carlos Arnau\Desktop\test04_TicTacToe\Debug\TicTacToe.exe
+C:\Users\Carlos Arnau\Desktop\test04_TicTacToe\Debug\TicTacToe.pdb
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\TicTacToe.pdb

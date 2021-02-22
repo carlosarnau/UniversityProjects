@@ -1,0 +1,14 @@
+﻿  test04_tictactoe_CarlosArnau.c
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\test04_tictactoe_CarlosArnau.c(81,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\test04_tictactoe_CarlosArnau.c(247,56): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\test04_tictactoe_CarlosArnau.c(263,132): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\test04_tictactoe_CarlosArnau.c(264,132): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+  LINK : se especificó /LTCG pero no se requiere generación de código; quite /LTCG de la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+raylib.lib(core.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(core.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(rglfw.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(rglfw.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(shapes.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(shapes.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(text.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(text.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(textures.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(textures.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(utils.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(utils.obj)' o en 'C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  TicTacToe.vcxproj -> C:\Users\Carlos Arnau\OneDrive\Escriptori\Projects\TicTacToe\Debug\TicTacToe.exe
