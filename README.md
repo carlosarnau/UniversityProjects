@@ -1,2 +1,2 @@
 # UniversityProjects
-Exercices solved in the subject of Programming I in C
+Exercices solved in the subject of Programming I using C
