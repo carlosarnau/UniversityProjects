@@ -1,2 +1,2 @@
 # University Projects
-Exercices solved in the subject of Programming I using C
+Exercices solved in the subject of Programming I using C language.
